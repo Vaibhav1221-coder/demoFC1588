@@ -1,0 +1,9 @@
+public class B
+{
+public void state1()
+{
+System.out.println("state1");
+}
+
+
+}
