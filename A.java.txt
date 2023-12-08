@@ -8,4 +8,9 @@ public void A1()
 {
 System.out.println("A1 is present in A");
 }
+public void sisa()
+{
+System.out.println("Animal");
+
+}
 }
